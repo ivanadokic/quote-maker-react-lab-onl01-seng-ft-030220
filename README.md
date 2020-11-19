@@ -10,8 +10,7 @@
 In this lab we will be building an application for making quotes. This will
 include creating a quote and updating the global Redux state.
 
-In our `App` component we will render the components: `QuoteForm` & `Quotes`. We
-will also need a reducer and actions file for our Quotes.
+In our `App` component we will render the components: `QuoteForm` & `Quotes`. We will also need a reducer and actions file for our Quotes..
 
 ### Quotes Reducer
 
